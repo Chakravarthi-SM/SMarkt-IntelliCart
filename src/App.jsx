@@ -7,7 +7,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Cart from "./pages/Cart";
 import Footer from "./components/Footer";
-import SingleProduct from "./pages/singleProduct";
+import SingleProduct from "./pages/SingleProduct";
 import CategoryProduct from "./pages/CategoryProduct";
 import { useCart } from "./Context/CartContet";
 import ProtectedRoute from "./components/ProtectedRoute";
