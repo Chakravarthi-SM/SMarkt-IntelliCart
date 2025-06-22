@@ -39,8 +39,8 @@ const Navbar = () => {
           {/* {logo section} */}
           <div className="flex gap-7 items-center">
             <Link to="/">
-              <h1 className="font-bold text-3xl">
-                <span className="text-red-500 font-serif">SM</span>arkt
+              <h1 className="font-bold text-4xl">
+                <span className="text-red-500  font-serif">SM</span>arkt
               </h1>
             </Link>
             <div className="md:flex gap-1 cursor-pointer text-gray-700 items-center hidden">
